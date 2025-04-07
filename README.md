@@ -42,14 +42,9 @@ Play chess!
 
 No installation required. Everything runs in the browser.
 
-📸 Screenshot
-
-(Replace the placeholder with an actual screenshot if you'd like)
-
 🙌 Credits
 Created by Darwish Adnan Chahbar
-Inspired by the beauty and strategy of chess.
+Inspired by the strategy of chess.
 
 📜 License
 This project is open-source and free to use under the MIT License.
-
